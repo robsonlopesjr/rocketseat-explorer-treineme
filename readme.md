@@ -17,7 +17,7 @@ Estudo introdutório de HTML e CSS.<br />
 <br>
 
 <p align="center">
-  <img alt="Treine me" src=".github/preview.jpeg" width="100%">
+  <img alt="Treine me" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
